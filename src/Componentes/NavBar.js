@@ -6,7 +6,7 @@ const NavBar = () => {
             <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
                 <div class="container-fluid">
                     <a class="navbar-brand" href="#">
-                        <img src="./imagenes/SDGF.png" alt="" width="80" height="80" />
+                        <img src="logo_SAC.png" alt="" width="80" height="80" />
                     </a>
                 </div>
                 <div class="container-fluid">
